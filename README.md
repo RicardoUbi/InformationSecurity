@@ -8,14 +8,14 @@ Neste repositório contém uma coleção de projetos que desenvolvi enquanto cur
 
 ## Conteúdo
 
-- [Cifra de César](): Implementação da cifra de César.
+- [Cifra de César](./Cifra%20de%20Cesar): Implementação da cifra de César.
 
-- [Cifra de Vigenère](): Implementação da cifra de Vigenère, um método mais avançado de criptografia.
+- [Cifra de Vigenère](./Cifra%20de%20Vigenère): Implementação da cifra de Vigenère, um método mais avançado de criptografia.
 
-- [Criptografia Assimétrica](): Demonstração de algoritmos de criptografia assimétrica, como RSA.
+- [Criptografia Assimétrica](./Criptografia%20Assimétrica): Demonstração de algoritmos de criptografia assimétrica, como RSA.
 
-- [Criptografia Simétrica](): Demonstração envolvendo algoritmos de criptografia simétrica, como AES.
+- [Criptografia Simétrica](./Criptografia%20Simétrica): Demonstração envolvendo algoritmos de criptografia simétrica, como AES.
 
-- [MAC (Message Authentication Code)](): Implementação de autenticação de mensagem para garantir a integridade dos dados.
+- [MAC (Message Authentication Code)](./MAC): Implementação de autenticação de mensagem para garantir a integridade dos dados.
 
-- [One-Time Pad](): Implementação do One-Time Pad, um método de criptografia que oferece segurança perfeita, quando usado corretamente.
+- [One-Time Pad](./One%20Time%20Pad): Implementação do One-Time Pad, um método de criptografia que oferece segurança perfeita, quando usado corretamente.
